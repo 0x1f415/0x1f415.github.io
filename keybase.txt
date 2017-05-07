@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/0x1f415
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://0x1f415.me
+  * I am 0x1f415 (https://keybase.io/0x1f415) on keybase.
+  * I have a public key with fingerprint 1B9E E100 C05B 4380 0E65  1B97 5D03 2A09 B749 89D3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101318bb4688bad91f90cf030d24bed886ac3d7798f1d48983ef9cacfc2d2c8a60d0a",
+            "fingerprint": "1b9ee100c05b43800e651b975d032a09b74989d3",
+            "host": "keybase.io",
+            "key_id": "5d032a09b74989d3",
+            "kid": "0101318bb4688bad91f90cf030d24bed886ac3d7798f1d48983ef9cacfc2d2c8a60d0a",
+            "uid": "d36d852fedbbb9d8f3376ad0c7ea1819",
+            "username": "0x1f415"
+        },
+        "revoke": {
+            "sig_ids": [
+                "770ed011a6b8d70ce2275105a28bbed398f2e86f02fa2bac78dd99e20d7495eb0f"
+            ]
+        },
+        "service": {
+            "hostname": "0x1f415.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494137151,
+    "expire_in": 157680000,
+    "prev": "c59c41b0f2e880f7b914f8cba72b54009448db0ba18094afef8e092eabecf420",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtkm1QVFUYx5fXZAMxJjRCB7sNRrTguW97710UHVEHTGHEmRVQZrvnnnPhDrAL
+u+uCw0CTtoqDL1tINoSAmDkEWQ4lATNOoKRCAw4hRUODoFJUOhiYI+HQWaY+NNPH
+Pp3zPPN//s/vPOfxhPjplvhk+8UGtaUc+danbwrqMpe2bymloA3tp0ylVB5ePHA+
+wg6nJU9DlIkCNKBZWoSQM4oilJFEqxJQVMACxHAQI1E0ygqLBEESVRpxoiSyWJUU
+WVEVBjGKKBsBAjJloFTNmoPthXbN6iS2NJQwpgFQAA85VgQAG3mSE3gEWEYGEhQ4
+SZQQSwpzbQ5vBYGDsgPHazaSI4FlEe8/9P8z975FO8QakcgzKkYQQgmJKssKRhkB
+RcAyLdKSV+jAdqtcgL3NS2iVo3mqzEDZscuWh71jdWg5hNlBmfZQggAwAjQtG6GI
+BKBghhF4GvAyQ4AxYgkTg0WjChhVZqCsCCJCkoQZgMgzeQyBSmUTb9LQpSmL5t4h
+/bt5PAkMVKHd5rQptnySz3U6C01eJOf+Qq+uGF+Elr8tLFCzIvJBpMKF7Q7NZqVM
+NJEqTs3rSXMSR7MCzdMGCpcUanZs0bwKXjCSrwPA2we7iKfCSwpHEz6CLwJVgBLN
+qaICZYGBPAeAxHEiggCSmZG7rGJVxEBisAyxonIMoLyPKrLaiLdEQOUc4knmZpWd
+++yYKtMf8V3pr/NZogsM8PWurk4ftOyffb7xZujT8KLJwCEQ+KC89kD95kF+Kzad
+1m/asKkj4Xidtem6aa4o8kHfxYyYiNu7fKNb3QtxPXkHPSsabKnnx1ZXTfcUzLRN
+V5TNryifH2wd6T5054fGW43Png7+6lKavj8jKjVg0PWx5mcYLsj89cvStJ1N371I
+ecK7emtf/2V2bCEnK7sqruWt57LFMwPWuTUpbb+3+g5aIWBLa/aMj2akry+5M5xU
+HNVc0JI4fEF+hs+qZpcPj5x71D2f+OmVspKPIkuK3e4w22FzU2D0SMVUnjQbsfbq
+5dD77QtxVwJy56qjqi+5by5sup986l3d5bFZ1vxeZkxDkLtuzWQAOtkoXHXuuNte
+1z3BHFo10Vu/y/+3Io7deyHyfDg2mytDvj/b2r33hZDp0IAfWw70SdfSuxqi8/Ob
+d59oSh2qzopjkzbWPBl6OXhd8sDRXPPs43vZrthAGHq2szLB8yi2+Y3WuoPmqrAn
+KeM1mmlV+3j/85/3vL/sT2H8elPjCettU0flSwOdet22tqW926t+yrxl37H71M0U
+v45to8mRiRHFURtH3laPwQ83L8zElQ49fri+95Oge4f130xMuSdv7GQt74QWxxh6
+jiVsCTvaP2ZNaHxNpX42SSuvrf56+9YvHo7efXXGd23vH+mZtVL5mUrPzPLRDj99
+0skKQ2da9/AHwfUDn3Vt8H/qaTgXHf/Kur8A
+=g27f
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/0x1f415
+
+==================================================================
